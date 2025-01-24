@@ -1,4 +1,4 @@
-# code : gdcg mqio njsk nfbu
+
 
 import smtplib
 from email.mime.text import MIMEText
@@ -10,7 +10,7 @@ from email.mime.multipart import MIMEMultipart
 
 sender_email= "exaple@gmail.com"
 receiver_email = "example@gmail.com"
-password="gdcg mqio njsk nfbu"#your app password 
+password=" wwww eeee tttt tttt"#your app password  exaple 
 file_to_send=("Email.csv")
 
 message= MIMEMultipart()
